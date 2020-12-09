@@ -11,7 +11,11 @@ Two ML algorithms, i.e., Logistic Regression and Random Forest Classifier, have 
 
 ### Python Libraries Used:
 •	Pandas: 		DataFrame operations
+
 •	NumPy: 		Arrays
+
 •	Matplotlib: 		Data visualization
+
 •	Seaborn: 		Data visualization
+
 •	Sklearn: 		ML algorithms, model metrics etc.
